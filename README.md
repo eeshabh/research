@@ -68,5 +68,5 @@ Lead student researcher on a mentored project. I built the models, ran the tests
 
 ## Related
 
-- [Healthcare AI agents](https://github.com/eeshabh/healthcare-ai-agents): 27 agents I built as a summer intern
+- [Healthcare AI agents](https://github.com/eeshabh/agents): 27 agents I built as a summer intern
 - [Portfolio](https://eeshabh.github.io)
